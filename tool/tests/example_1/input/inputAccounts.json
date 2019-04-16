@@ -1,0 +1,17 @@
+{
+  "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+  "seedIdentifier": "04cf7ed8d669b968501978d55273cd9e6d9fd4a449621a1d370f08b80f9dafd44bf778d6f66d645f0022c9507308c6b7cb56ef46051be6a5001a9fd4e27af1a9f7",
+  "xpub": "Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM",
+  "derivationMode": "",
+  "index": 0,
+  "freshAddress": "LKiYicy8LFhZ85Ejb3yTGwCBAs6Lg45Urf",
+  "freshAddressPath": "44'/2'/0'/0/5",
+  "name": "Litecoin 1 (legacy)",
+  "blockHeight": 0,
+  "operations": [],
+  "pendingOperations": [],
+  "currencyId": "litecoin",
+  "unitMagnitude": 8,
+  "lastSyncDate": 0,
+  "balance": "12831340"
+}

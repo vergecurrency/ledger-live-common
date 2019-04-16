@@ -1,0 +1,133 @@
+{
+  "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+  "seedIdentifier": "04cf7ed8d669b968501978d55273cd9e6d9fd4a449621a1d370f08b80f9dafd44bf778d6f66d645f0022c9507308c6b7cb56ef46051be6a5001a9fd4e27af1a9f7",
+  "xpub": "Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM",
+  "derivationMode": "",
+  "index": 0,
+  "freshAddress": "LKiYicy8LFhZ85Ejb3yTGwCBAs6Lg45Urf",
+  "freshAddressPath": "44'/2'/0'/0/5",
+  "name": "Litecoin 1 (legacy)",
+  "blockHeight": 0,
+  "operations": [
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-53bc5dc5383ab8bc77fcf4a57ac0ef966efbf07b3372a2d6702df09b54e382c9-IN",
+      "type": "IN",
+      "senders": [
+        "MJUKbAaSHsUJzjrpL1NEs3RhydZ172cBfV"
+      ],
+      "recipients": [
+        "LYvfaopzh93QVchs14wrjx14QVG3J5Dcyz",
+        "MEqF994bgWPKVz1Ubj2YPimnWL2oxYXKhY"
+      ],
+      "blockHeight": 1613236,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "53bc5dc5383ab8bc77fcf4a57ac0ef966efbf07b3372a2d6702df09b54e382c9",
+      "date": "2019-04-12T14:54:54.000Z",
+      "value": "5000000",
+      "fee": "18300"
+    },
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-7d8f6f1d275f67dc06b6811fcbc14aab4cde35a63fa35b3076ab505fbd75ef42-OUT",
+      "type": "OUT",
+      "senders": [
+        "LNE2XB6RhTLWGwCax8ct6swZtjpHkfKX84",
+        "Ld7cZHNgC9hEuVrdGYc482FkqCwSGjSg7Z"
+      ],
+      "recipients": [
+        "M9TijnKKcqtRrgf7tvffqUssyNzFG2eScp"
+      ],
+      "blockHeight": 1612710,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "7d8f6f1d275f67dc06b6811fcbc14aab4cde35a63fa35b3076ab505fbd75ef42",
+      "date": "2019-04-11T16:45:32.000Z",
+      "value": "4533660",
+      "fee": "33660"
+    },
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-f55bce527d76ca175c6344deb73300f1c872369e7de2a5715f384655c0d5584e-IN",
+      "type": "IN",
+      "senders": [
+        "MSNaar2aLfPMZfx53nGAB5hEQmRbLL28jn"
+      ],
+      "recipients": [
+        "Ldmrv4T3BbT6xgWbKnBkXrrtwoHqWSGouZ",
+        "MA6TmgdUP6zAen31qSyK3DsC1qQ5cJy6nf"
+      ],
+      "blockHeight": 1612042,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "f55bce527d76ca175c6344deb73300f1c872369e7de2a5715f384655c0d5584e",
+      "date": "2019-04-10T12:14:45.000Z",
+      "value": "5000000",
+      "fee": "16348"
+    },
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-0d9e1de2335fe60b64c0f1e9deeb96121072c1521aa986b571fc4a90e167314c-IN",
+      "type": "IN",
+      "senders": [
+        "MTYFXMWZj41ufg9Ez8YvrAqmPFPRX1MFpg"
+      ],
+      "recipients": [
+        "LT2xoHSm3W9dzpf3gU577A7CGPdCFiD5AL",
+        "MJUKbAaSHsUJzjrpL1NEs3RhydZ172cBfV"
+      ],
+      "blockHeight": 1611630,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "0d9e1de2335fe60b64c0f1e9deeb96121072c1521aa986b571fc4a90e167314c",
+      "date": "2019-04-09T17:38:58.000Z",
+      "value": "1365000",
+      "fee": "19276"
+    },
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-55544eb11e2b9da31dfaf12758e15ae511facb864afdfb2cd4f6d1a9693490e3-IN",
+      "type": "IN",
+      "senders": [
+        "MVZvrfTgX5hLAtL6mfHGFndv7s5yZvTipN"
+      ],
+      "recipients": [
+        "Ld7cZHNgC9hEuVrdGYc482FkqCwSGjSg7Z",
+        "MSNaar2aLfPMZfx53nGAB5hEQmRbLL28jn"
+      ],
+      "blockHeight": 1611440,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "55544eb11e2b9da31dfaf12758e15ae511facb864afdfb2cd4f6d1a9693490e3",
+      "date": "2019-04-09T09:32:45.000Z",
+      "value": "3000000",
+      "fee": "18300"
+    },
+    {
+      "id": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:-70b29f705be887b8a1baa3579e937708874111ad3aca17f7d36974c8cc1e21e0-IN",
+      "type": "IN",
+      "senders": [
+        "MQ1AaPQHsEVxxxQ93MGfqh8XQDEH1QGBwy",
+        "MVNWHXh3QsXgdknam6H1W7rJQ1Pv6WtZQB"
+      ],
+      "recipients": [
+        "LNE2XB6RhTLWGwCax8ct6swZtjpHkfKX84",
+        "MTYFXMWZj41ufg9Ez8YvrAqmPFPRX1MFpg"
+      ],
+      "blockHeight": 1611434,
+      "blockHash": null,
+      "accountId": "libcore:1:litecoin:Ltub2YRPRjnvZVoBBbfDrEV3jJdGQCTMHgKg1V1mnAZuQbbSY6XPhufcRTpoGB4595dUuW1GSDy6CApUYmCfwA4YjG5JWrAFd4GBR1WRJ8Jm6cM:",
+      "extra": {},
+      "hash": "70b29f705be887b8a1baa3579e937708874111ad3aca17f7d36974c8cc1e21e0",
+      "date": "2019-04-09T09:12:02.000Z",
+      "value": "3000000",
+      "fee": "21120"
+    }
+  ],
+  "pendingOperations": [],
+  "currencyId": "litecoin",
+  "unitMagnitude": 8,
+  "lastSyncDate": 0,
+  "balance": "12831340"
+}
