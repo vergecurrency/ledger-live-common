@@ -51,6 +51,7 @@ const tickerApproxMarketPrice = {
   DOGE: 4.9e-9,
   DASH: 0.0003367,
   PPC: 0.000226,
+  XVG: 0.00000300,
   ZEC: 0.000205798
 };
 
