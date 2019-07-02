@@ -76,6 +76,7 @@ const ledgerExplorersV2 = {
   stakenet: "xsn",
   stratis: "strat",
   stealthcoin: "xst",
+  verge: "xvg",
   vertcoin: "vtc",
   viacoin: "via",
   zcash: "zec",
