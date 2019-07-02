@@ -779,6 +779,40 @@ const cryptocurrenciesById: { [name: string]: CryptoCurrency } = {
       }
     ]
   },
+  verge: {
+    id: "verge",
+    coinType: 420,
+    name: "Verge",
+    managerAppName: "Verge",
+    ticker: "XVG",
+    scheme: "verge",
+    color: "#1db6dc",
+    family: "bitcoin",
+    blockAvgTime: 30,
+    bitcoinLikeInfo: {
+      P2PKH: 30,
+      P2SH: 33
+    },
+    symbol: "V",
+    units: [
+      {
+        name: "verge",
+        code: "XVG",
+        magnitude: 8
+      },
+      {
+        name: "satoshi",
+        code: "sat",
+        magnitude: 0
+      }
+    ],
+    explorerViews: [
+      {
+        tx: "https://verge-blockchain.info/tx/$hash",
+        address: "https://verge-blockchain.info/address/$address"
+      }
+    ]
+  },
   ellaism: {
     type: "CryptoCurrency",
     id: "ellaism",
